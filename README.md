@@ -38,7 +38,7 @@
 
 В файле `news/models.py` была создана модель `CurrencyRate`, описывающая структуру таблицы для хранения курсов различных валют (USD, EUR, CNY).
 
-![Модель данных](путь_к_скриншоту/models.png)
+![Модель данных](/models.png)
 
 ---
 
@@ -69,7 +69,7 @@ python manage.py shell
 
 Скриншот работы в `manage.py shell`:
 
-![Консоль Django](путь_к_скриншоту/work_manage.py_shell.png)
+![Консоль Django](/work_manage.py_shell.png)
 
 ---
 
@@ -77,7 +77,7 @@ python manage.py shell
 
 С помощью визуального клиента базы данных SQLite (`db.sqlite3`) было подтверждено успешное сохранение записей в таблице `news_currencyrate`.
 
-![База данных](путь_к_скриншоту/Currency.png)
+![База данных](/Currency.png)
 
 ---
 
